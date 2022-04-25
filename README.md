@@ -7,5 +7,6 @@
 **In each algorithm:**
 - Throughput time
 - Turnaround time
-- Waiting time
-I used python without using any data structures methods - just list and tuple objects <br>
+- Waiting time <br>
+
+I used python without using any data structures methods - just list and tuple objects 
