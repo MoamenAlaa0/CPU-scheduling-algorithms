@@ -1,9 +1,9 @@
 # CPU Sscheduling Algorithms
-- First Come First Serve with arrival time
-- Shortest Job First - with arrival time
-- Round Robin Scheduling
-- Multilevel Queue Scheduling - 2 core or more 
-<br>** In each algorithm: **
+1. First Come First Serve with arrival time
+2. Shortest Job First - with arrival time
+3. Round Robin Scheduling
+4. Multilevel Queue Scheduling - 2 core or more 
+<br>**In each algorithm:**
 - Throughput time
 - Turnaround time
 - Waiting time
