@@ -3,7 +3,7 @@
 - Shortest Job First - with arrival time
 - Round Robin Scheduling
 - Multilevel Queue Scheduling - 2 core or more 
-** In each algorithm:
+<br>** In each algorithm: **
 - Throughput time
 - Turnaround time
 - Waiting time
