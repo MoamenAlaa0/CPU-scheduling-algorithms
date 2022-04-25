@@ -9,4 +9,4 @@
 - Turnaround time
 - Waiting time <br>
 
-I used python without using any data structures methods - just list and tuple objects 
+I used python without using any data structure methods - just list and tuple objects 
