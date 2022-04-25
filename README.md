@@ -5,7 +5,7 @@
 4. Multilevel Queue Scheduling - 2 core or more <br>
 
 **In each algorithm:**
-- Throughput time
+- Throughput
 - Turnaround time
 - Waiting time <br>
 
