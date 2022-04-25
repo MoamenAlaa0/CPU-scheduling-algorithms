@@ -4,7 +4,7 @@
 3. Round Robin Scheduling
 4. Multilevel Queue Scheduling - 2 core or more <br>
 
-**In each algorithm:**
+### In each algorithm:
 - Throughput
 - Turnaround time
 - Waiting time <br>
