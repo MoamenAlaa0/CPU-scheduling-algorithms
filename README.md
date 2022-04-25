@@ -1,4 +1,4 @@
-# CPU Sscheduling Algorithms
+# CPU Scheduling Algorithms
 1. First Come First Serve with arrival time
 2. Shortest Job First - with arrival time
 3. Round Robin Scheduling
